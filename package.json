@@ -1,11 +1,11 @@
 {
     "name": "Luminaria",
     "preductname": "Luminaria Launcher",
-    "version": "3.0.2",
+    "version": "1.0.0",
     "description": "Launcher Officiel de Luminaria",
     "main": "src/app.js",
     "author": "Riptiaz/Boulldogo/Vexato/Luuxis/Minegame499",
-    "settings": "https://lch.luminaria-mc.fr",
+    "settings": "https://launcher.dium-craft.fr/",
     "engines": {
         "node": "16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Minegame49/LuminariaLauncher.git"
+        "url": "git+https://github.com/DiumStream-dev/LuminariaLauncher/LuminariaLauncher.git"
     }
 }
